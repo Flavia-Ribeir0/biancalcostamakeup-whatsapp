@@ -1,7 +1,7 @@
 # biancalcostamakeup-whatsapp
 
-
-![biancalcostamakeup](https://user-images.githubusercontent.com/113454052/208485772-5f82a265-b145-4cfd-acbf-51b30b67ba29.png)
+<p align="center">
+![biancalcostamakeup](https://user-images.githubusercontent.com/113454052/208485772-5f82a265-b145-4cfd-acbf-51b30b67ba29.png)</p>
 
 
 Página de link para Bio do Instagram
