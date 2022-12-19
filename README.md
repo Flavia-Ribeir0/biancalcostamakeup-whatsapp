@@ -6,7 +6,7 @@
 
 Página de link para Bio do Instagram
 
-[Click aqui para acessar]()
+[Click aqui para acessar](https://biancalcostamakeup-whatsapp.vercel.app/)
 
 ## Tecnologias
 
