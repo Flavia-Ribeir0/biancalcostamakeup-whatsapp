@@ -16,6 +16,6 @@ Página de link para Bio do Instagram
 
 ## Contato
 
-flaviaalexsa12@gmail.com
+flaviaarbarros12@gmail.com
 
 
